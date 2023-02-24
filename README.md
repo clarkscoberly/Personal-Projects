@@ -2,7 +2,7 @@
 
 ### [A_PI](https://github.com/clarkscoberly/A_PI) (Asset Private Investigator)
 Personal Project done with two others for a hackathon. The rules: We had 24 hours to program as much as possible a project that we had previously researched and gotten "sponsership" from a company in the local area. It was to be done for free.\
-In order to provide greater security for customers of Frontline Cyber Solutions they have asked us to gather information using a system they have in place to put together a database which can be queried for information on what systems are accessing or attempting to access their networks, small or large. \
+In order to provide greater security for customers of Frontline Cyber Solutions they have asked us to gather information using a system they have in place to put together a database which can be queried for information on what systems are accessing or attempting to access their networks, small or large. 
 
 ##### Description/Significance:  
 - Software that looks at traffic within a client’s network and logs what assets/devices are connecting then reads them into a database for future queries 
