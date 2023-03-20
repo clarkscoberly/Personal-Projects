@@ -2,7 +2,7 @@
 
 ### [Budgeteer](https://github.com/clarkscoberly/Budgeteer)
 
-![Picture of Budgeteer application](https://github.com/clarkscoberly/Personal-Projects/blob/main/Screenshot%202023-03-20%20161634.jpg)
+![Picture of Budgeteer application](https://github.com/clarkscoberly/Personal-Projects/blob/main/budgeteer_screenshot.jpg)
  
 ##### Description/Significance:
 - Created a standalone executable web-application.
@@ -37,6 +37,8 @@ Though we were not able to determine everything about the devices that were on t
 - Tkinter
 
 ### [First Cloud Database](https://github.com/clarkscoberly/Cloud_Database)
+
+![Picture of first cloud database](https://github.com/clarkscoberly/Personal-Projects/blob/main/cloud_database_screenshot.jpg)
 
 ###### Description/Significance:
 - Created a functional cloud database using Google's firebase.
