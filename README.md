@@ -2,7 +2,7 @@
 
 ### [Budgeteer](https://github.com/clarkscoberly/Budgeteer)
 
-![Picture of Budgeteer application]([photo](https://github.com/clarkscoberly/Personal-Projects/blob/main/Screenshot%202023-03-20%20161634.jpg))
+![Picture of Budgeteer application](https://github.com/clarkscoberly/Personal-Projects/blob/main/Screenshot%202023-03-20%20161634.jpg)
  
 ##### Description/Significance:
 - Created a standalone executable web-application.
