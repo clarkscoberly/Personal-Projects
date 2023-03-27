@@ -46,3 +46,6 @@ Though we were not able to determine everything about the devices that were on t
 
 ##### Major Technologies Utilized
 - Cloud Database (Firebase)
+
+# [College Projects](https://github.com/clarkscoberly/College)
+Click the above link to access the folder containing college projects
