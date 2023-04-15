@@ -11,6 +11,7 @@
 - Implemented an automated system for new users to have a suggested budget based off of user given information including age, period of life, and location.
 
 ##### Major Technologies Utilized
+- Python
 - Cloud Database (Firebase)
 - Pandas
 - Plotly
@@ -32,6 +33,7 @@ In order to provide greater security for customers of Frontline Cyber Solutions 
 Though we were not able to determine everything about the devices that were on the network we did create something that was a lot less harsh on the network vs something like **nmap** and were still able to gather much about who, how many, and generally on what they were on the network with.
 
 ##### Major Technologies Utilized
+- Python
 - Scapy
 - Cloud Firestore
 - Tkinter
@@ -45,6 +47,7 @@ Though we were not able to determine everything about the devices that were on t
 - Major outcomes were: Understand the creation, maintenance, and uses of cloud databases. All while trying something totally unique and new.
 
 ##### Major Technologies Utilized
+- Python
 - Cloud Database (Firebase)
 
 ### [Unreal Engine 5 - First Environment](https://github.com/clarkscoberly/UE5-FirstEnvironment)
